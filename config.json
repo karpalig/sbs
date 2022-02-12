@@ -1,6 +1,7 @@
 {
 	"title": "Дао Дэ Цзин",
 	"files": [
+		"ddj/simplified-chinese.md",
 		"ddj/yan-khin-shun.md",
 		"ddj/torchinov.md",
 		"ddj/malyavin.md"
